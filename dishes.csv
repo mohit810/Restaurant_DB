@@ -1,0 +1,22 @@
+"id";"name";"image";"category";"price";"description";"label";"rating";"time";"featured"
+1;"Grilled Chicken";"https://i.imgur.com/KgOUNoC.jpg";"starters";"150";"Grilled Chicken with Cherry salsa ";"Grilled";5.0;15;1
+2;"Beet Salad";"https://i.imgur.com/3DpXptM.jpg";"starters";"150";"Beet Salad with verious ingredients ";"salad";5.0;16;0
+3;"Chicken Lemongrass Dumplings";"https://i.imgur.com/9SpCFjU.jpg";"starters";"120";"Chicken Lemongrass Dumpling with our specialised Sauce";"Dumplings";5.0;17;0
+4;"Persian Chicken Kebab";"https://i.imgur.com/gV7pdqu.jpg";"starters";"160";"Persian Chicken Jooheh Kebab with our specialised Sauce";"Grilled";5.0;15;0
+5;"Dahi Vada";"https://i.imgur.com/KaZNcur.jpg";"starters";"130";"Dahi vada is a type of chaat (snack) originating from the Indian subcontinent and popular throughout South Asia. It is prepared by soaking vadas (fried flour balls) in thick dahi (yogurt).";"Chaat";5.0;14;0
+6;"Spring Roll";"https://i.imgur.com/zgNkFYn.jpg";"starters";"130";"Spring Rolls are the vegetarian super light, crispy and tender vegetarian appetizer cousin of the traditional egg roll";"Roll";5.0;13;0
+7;"Fried Chicken Wings";"https://i.imgur.com/UvZ1vay.jpg";"starters";"160";"Fried Chicken Wings are marinated in buttermilk, then coated in seasoned flour and deep fried to golden brown perfection";"Fried";5.0;18;0
+8;"Butter Chicken";"https://i.imgur.com/1lufL9l.jpg";"mains";"200";"Chunks of grilled chicken (tandoori chicken) cooked in a smooth buttery & creamy tomato based gravy";"Dish";5.0;20;0
+9;"Channa Masala & Rice";"https://i.imgur.com/waeK3qf.jpg";"mains";"240";"Flavorful Indian curry made by cooking chickpeas in a spicy onion tomato masala gravy and served with steamed Rice.";"Combo";5.0;17;0
+10;"South Indian Thali";"https://i.imgur.com/JHKGdw1.jpg";"mains";"280";"Thali consisting of Dosa, Idli, Vada, Sambar, Coconut Chutney, Sweet Pongal served with chilled Pepsi";"Thali";5.0;19;0
+11;"Plain Chapati";"https://i.imgur.com/VCIuuX6.jpg";"side";"5";"Simple plain Chapati";"Bread";5.0;5;0
+12;"Garlic Naan";"https://i.imgur.com/ztTmjMG.jpg";"side";"15";"Garlic Naan with sprikled cheese";"Bread";5.0;5;0
+13;"Malai Kofta";"https://i.imgur.com/eANSRtv.jpg";"mains";"180";"These koftas are made of potato and paneer and served with a creamt tomato based gravy. Pairs well with naan.";"Dish";5.0;18;0
+14;"Paneer Tikka Masal";"https://i.imgur.com/8m4nCOi.jpg";"mains";"190";"Tikka is first marinated and then grilled after this it is added to Creamy, delicious, rich gravy made with many herbs";"Dish";5.0;17;0
+15;"Mutton Rogan Josh & Rice";"https://i.imgur.com/o2cV1LQ.jpg";"mains";"270";"Meat is stirred along with a host of spices and herbs, mixed with curd and pressure cooked slowly the correct Kashmiri style and served with Rice";"Combo";5.0;16;0
+16;"Mutton Rogan Josh";"https://i.imgur.com/5jgCoje.jpg";"mains";"230";"Meat is stirred along with a host of spices and herbs, mixed with curd and pressure cooked slowly the correct Kashmiri style.";"Dish";5.0;15;0
+17;"Non-Veg Thali";"https://i.imgur.com/HNv3Bvi.jpg";"mains";"280";"Thali consisting of Kadai chicken, Chapati, Papad, Salad, Chana masala, Curd, Dum Aloo, plaka Paneer, Rice, Sweet Dish";"Thali";5.0;14;0
+18;"Aloo Matar Gobi";"https://i.imgur.com/XiHK8Jc.jpg";"mains";"190";" Aloo matar gobi is a blend of potatoes (aloo), cauliflower (gobi) and green peas (matar) in an onion-tomato based curry. This is a simple, wholesome North Indian curry is perfect when served with hot chapatis (Indian flatbread) ";"Dish";5.0;12;0
+19;"Mango Coconut Chia Pudding";"https://i.imgur.com/PlMgxnd.jpg";"sweet";"70";" Mango Coconut Chia Pudding is a dairy-free, gluten-free, sugar-free, healthy dessert made with fiber rich chia seeds, rich coconut milk, maple syrup, coconut and fresh mango.";"Sweet";5.0;13;0
+20;"Shahi Tukda";"https://i.imgur.com/fUr1d72.jpg";"sweet";"80";"Shahi tukda is a rich, royal Mughlai dessert of fried sugar syrup coated bread topped and soaked with fragrant creamy sweet thickened milk or rabri and garnished with dry fruits.";"Sweet";5.0;12;0
+21;"Strawberry French Cake";"https://i.imgur.com/W7BQ4h0.jpg";"sweet";"70";"Crusty on the outside with a creamy and almost custard-like crumb in the center, this cake is packed with fresh strawberries and is guaranteed to become your summertime favorite!";"Sweet";5.0;16;0
